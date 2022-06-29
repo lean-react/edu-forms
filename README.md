@@ -1,3 +1,1 @@
-# Lean React Template
-
-> Opinionated lean React boilerplate
+# Edu Project: React and Forms
